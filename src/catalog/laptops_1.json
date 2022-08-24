@@ -1,0 +1,482 @@
+[
+    {
+        "id": "346132435",
+        "title": "Ноутбук Lenovo V14 G2 ITL (Intel i3-1115G4/8/128F/int/W10Pro) Black",
+        "price": "16999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/274406559.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "350576070",
+        "title": "Ноутбук ASUS TUF Gaming F15 FX506HC-HN004 (90NR0724-M00NU0) Graphite Black / Intel Core i5-11400H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050",
+        "price": "43999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/281560784.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "282216878",
+        "title": "Ноутбук Acer Aspire 5 A515-45G-R63J (NX.A8EEU.001) Charcoal Black",
+        "price": "24999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/163381583.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "245161897",
+        "title": "Ноутбук Apple MacBook Air 13\" M1 256GB 2020 (MGND3) Gold",
+        "price": "42999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/30872664.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346611087",
+        "title": "Ноутбук ASUS Laptop X515JA-EJ1814 (90NB0SR3-M34690) Peacock Blue / Intel Pentium Gold 6805 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "18499",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/275080610.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "332906383",
+        "title": "Ноутбук HP Pavilion Gaming 15-ec2024ua (5A0U9EA) Shadow Black",
+        "price": "45999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/248528822.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345278746",
+        "title": "Ноутбук ASUS TUF Gaming A17 FA706IHR-HX029 (90NR07D5-M000P0) Graphite Black / AMD Ryzen 5 4600H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce GTX 1650",
+        "price": "36999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/272561687.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "337599142",
+        "title": "Ноутбук Lenovo IdeaPad 3 14ITL6 (82H700KPRA) Arctic Grey",
+        "price": "13999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/258420085.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "282363393",
+        "title": "Ноутбук Acer Swift 1 SF114-34-P1A1 (NX.A77EU.00V) Pure Silver",
+        "price": "17999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/163403141.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346597995",
+        "title": "Ноутбук ASUS Laptop X515EA-BQ2066 (90NB0TY1-M00VF0) Slate Grey / Intel Core i3-1115G4 / RAM 12 ГБ / SSD 512 ГБ",
+        "price": "23999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/275056537.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "332744989",
+        "title": "Ноутбук Lenovo IdeaPad 3 14ITL6 (82H700PURA) Arctic Grey",
+        "price": "16999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/248178740.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "289769078",
+        "title": "Ноутбук Acer Nitro 5 AN517-41-R0NK (NH.QAREU.00D) Shale Black",
+        "price": "52999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/278087086.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346053685",
+        "title": "Ноутбук ASUS TUF Dash F15 FX517ZE-HN046 (90NR0953-M003J0) Black / Intel Core i5-12450H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050 Ti",
+        "price": "49999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/274271780.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "322710583",
+        "title": "Ноутбук Apple MacBook Pro 16\" M1 Pro 512GB 2021 (MK183UA/A) Space Gray",
+        "price": "114999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/229714100.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346613733",
+        "title": "Ноутбук ASUS Laptop X415KA-EB127W (90NB0VH2-M00500) Slate Grey / Intel Pentium Silver N6000 / RAM 4 ГБ / SSD 128 ГБ / Windows 11 Home",
+        "price": "15999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/275082813.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "307049053",
+        "title": "Ноутбук Lenovo V15-IGL (82C30027RA) Iron Grey",
+        "price": "12999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/190172493.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "323909509",
+        "title": "Ноутбук Acer Swift 1 SF114-34-C4RG (NX.A77EU.00C) Pure Silver",
+        "price": "15999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/231887316.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346065079",
+        "title": "Ноутбук Asus ROG Strix G15 G513IM-HN008 (90NR0522-M005M0) Eclipse Gray / AMD Ryzen 7 4800H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3060",
+        "price": "57999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/274286111.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "284655518",
+        "title": "Ноутбук Apple MacBook Air 13\" M1 256GB 2020 (Z1240004P) Custom Space Gray",
+        "price": "57999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/175329062.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "342592810",
+        "title": "Ноутбук ASUS Laptop X515EA-BQ1854 (90NB0TY2-M00EP0) Transparent Silver / Intel Pentium Gold 7505 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "18999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/267775862.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "349753347",
+        "title": "Ноутбук ASUS Laptop X515EA-BQ1851 (90NB0TY3-M00EJ0) Peacock Blue / Intel Pentium Gold 7505 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "18999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/280027329.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345356008",
+        "title": "Ноутбук Acer Aspire 3 A315-34-C80A (NX.HE3EU.061) Charcoal Black",
+        "price": "12999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/272735104.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "330927004",
+        "title": "Ноутбук ASUS Vivobook Pro 14 OLED K3400PH-KM131W (90NB0UX3-M02640) Cool Silver / Intel Core i5-11300H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce GTX 1650 / Windows 11 Home",
+        "price": "37999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/244725612.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "328047400",
+        "title": "Ноутбук Lenovo IdeaPad 3 14ITL6 (82H700PVRA) Arctic Grey",
+        "price": "19499",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/239643280.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "338993929",
+        "title": "Ноутбук ASUS Laptop X515MA-EJ435 (90NB0TH1-M09420) Slate Grey / 15.6\" / Intel Celeron N4020 / RAM 4 ГБ / SSD 256 ГБ",
+        "price": "14999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/261405331.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345352756",
+        "title": "Ноутбук Acer Aspire 3 A315-23-R684 (NX.HVTEU.03A) Charcoal Black",
+        "price": "13799",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/272730325.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "350575974",
+        "title": "Ноутбук ASUS TUF Gaming F17 FX706HM-HX031 (90NR0743-M00630) Eclipse Gray / Intel Core i5-11400H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3060",
+        "price": "57999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/281559327.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "325216981",
+        "title": "Ноутбук MSI Modern 14 B11MOU-874XUA Carbon Gray",
+        "price": "24999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/234489777.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "325401295",
+        "title": "Ноутбук ASUS ExpertBook L1 L1500CDA-BQ0758 15.6\" IPS (90NX0401-M001F0) Black / AMD Ryzen 3 3250U / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "22999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/234893077.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "331589467",
+        "title": "Ноутбук Acer Aspire 3 A315-34-P1VK (NX.HE3EU.05D) Charcoal Black",
+        "price": "14999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/245866668.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "344525260",
+        "title": "Ноутбук Apple MacBook Pro 14\" M1 Max 8TB 2021 (Z15G000DW) Space Gray",
+        "price": "238999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/271166202.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "348162711",
+        "title": "Ноутбук ASUS VivoBook 17 X712EA-BX817 (90NB0TW1-M00HZ0) Transparent Silver / Intel Pentium Gold 7505 / RAM 8 ГБ / SSD 512 ГБ",
+        "price": "22999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/278089722.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "332135320",
+        "title": "Ноутбук ASUS ZenBook 14 UX425EA-KI852 (90NB0SM1-M007M0) Pine Grey / Intel Core i3-1115G4 / RAM 8 ГБ / SSD 512 ГБ",
+        "price": "29999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/247180846.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "348678861",
+        "title": "Ноутбук ASUS ROG Strix G17 G713RW-LL179 (VSNR08H5-BU2010) Volt Green / AMD Ryzen 7 6800H / RAM 16 ГБ / SSD 1 ТБ / nVidia GeForce RTX 3070 Ti",
+        "price": "94999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/278631533.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "282286938",
+        "title": "Ноутбук Acer Aspire 7 A715-42G-R0VS (NH.QBFEU.00A) Charcoal Black",
+        "price": "33999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/163386254.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "335740168",
+        "title": "Ноутбук Prestigio SmartBook 141 С7 (PSB141C07CHH_MG_CIS) Silver",
+        "price": "9999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/253826353.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346152856",
+        "title": "Ноутбук ASUS VivoBook 15 OLED K513EQ-L1740 (90NB0SK1-M00FF0) Indie Black / Intel Core i3-1125G4 / RAM 8 ГБ / SSD 512 ГБ / nVidia GeForce MX350",
+        "price": "32999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/274431293.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "336263044",
+        "title": "Ноутбук ASUS ROG Strix G15 G513RC-HN088 (90NR08A5-M00640) Eclipse Gray / AMD Ryzen 7 6800H / RAM 16 ГБ / nVidia GeForce RTX 3050",
+        "price": "51999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/254840624.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346005130",
+        "title": "Ноутбук Acer Enduro Urban N3 EUN314-51WG-3513 (NR.R1DEU.001) Hunter Green",
+        "price": "26999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/274160747.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "332846788",
+        "title": "Ноутбук MSI Modern 14 B11MOU-885XUA Carbon Gray",
+        "price": "32499",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/248403839.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346884075",
+        "title": "Ноутбук ASUS VivoBook S S533EQ-BQ050 (90NB0SE3-M00AK0) Indie Black / Intel Core i7-1165G7 / RAM 8 ГБ / SSD 512 ГБ / nVidia GeForce MX350",
+        "price": "37999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/275722618.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "334890169",
+        "title": "Ноутбук Lenovo V14 G2 ALC (82KC003JRA) Black",
+        "price": "22999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/252193529.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345027766",
+        "title": "Ноутбук Acer Aspire 3 A315-56-31Q4 (NX.HS5EU.02B) Shale Black",
+        "price": "15999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/272014169.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "342774085",
+        "title": "Ноутбук ASUS ROG Strix G17 G713RM-KH006 (90NR08K4-M00310) Eclipse Gray / AMD Ryzen 7 6800H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3060",
+        "price": "69999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/268077004.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "348163758",
+        "title": "Ноутбук ASUS VivoBook 17 X712EA-BX819 (90NB0TW1-M00J10) Transparent Silver / Intel Pentium Gold 7505 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "21999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/278090757.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345997828",
+        "title": "Ноутбук Acer Enduro Urban N3 EUN314-51W-52NF (NR.R1CEU.00D) Hunter Green",
+        "price": "29999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/274158083.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346884060",
+        "title": "Ноутбук ASUS Vivobook Pro 15X M6501RR-LP016W (90NB0YS2-M000K0) Earl Grey / AMD Ryzen 9 6900HX / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3070 / Windows 11 Pro",
+        "price": "99999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/275722572.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "322377649",
+        "title": "Ноутбук Dell Vostro 15 3515 15.6\" (N6262VN3515UA_WP) Black / AMD Ryzen 3 3250U / RAM 8 ГБ / Windows 10 Pro",
+        "price": "30937",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/229006735.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "348160251",
+        "title": "Ноутбук ASUS Laptop X515JA-BQ4073 (90NB0SR2-M02RD0) Transparent Silver / Intel Core i3-1005G1 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "19999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/278083267.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "335890867",
+        "title": "Ноутбук Acer Aspire 5 A515-45G-R91R (NX.A8CEU.00A) Pure Silver",
+        "price": "31999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/254108964.jpg",
+        "currency": "UAH",
+        "active": false
+    },
+    {
+        "id": "350458047",
+        "title": "Ноутбук ASUS TUF Gaming F15 FX506HC-HN040 (90NR0724-M00NY0) Graphite Black / Intel Core i7-11800H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050",
+        "price": "49999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/281392389.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345450169",
+        "title": "Ноутбук ASUS Vivobook 15 K513EA-BQ3437 (90NB0SG1-M019A0) Indie Black / Intel Core i3-1115G4 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "24999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/272907546.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "348683352",
+        "title": "Ноутбук ASUS VivoBook 15 K513EA-BN2942 (90NB0SG2-M01HF0) Spangle Silver / Intel Core i3-1115G4 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "23999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/278631761.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "330206719",
+        "title": "Ноутбук Acer Nitro 5 AN517-54-555E (NH.QF8EU.006) Shale Black",
+        "price": "45999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/245749178.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "350458098",
+        "title": "Ноутбук ASUS TUF Gaming F15 FX506HM-HN016 (90NR0754-M007A0) Graphite Black",
+        "price": "59999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/281395763.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "348168171",
+        "title": "Ноутбук ASUS VivoBook 17 X712JA-BX755 (90NB0SZ1-M00EX0) Transparent Silver / Intel Core i3-1005G1 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "21999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/278093694.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "282367763",
+        "title": "Ноутбук Acer Swift 1 SF114-34-P1KE (NX.A77EU.00P) Pure Silver",
+        "price": "24999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/163405736.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "335598898",
+        "title": "Ноутбук ASUS VivoBook Pro 14 OLED M3401QC-KM139 (90NB0VF2-M001P0) Quiet Blue / AMD Ryzen 5 5600H / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050",
+        "price": "43999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/253514919.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "330129796",
+        "title": "Ноутбук ASUS VivoBook 17 X712EA-BX371 (90NB0TW1-M04480) Transparent Silver / Intel Pentium Gold 7505 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "21999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/243313777.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "282257488",
+        "title": "Ноутбук Acer Aspire 5 A515-45G-R7C8 (NX.A8CEU.00K) Pure Silver",
+        "price": "26999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/163382661.jpg",
+        "currency": "UAH",
+        "active": true
+    }
+]

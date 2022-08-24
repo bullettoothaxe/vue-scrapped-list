@@ -1,0 +1,482 @@
+[
+    {
+        "id": "329480179",
+        "title": "Ноутбук HP 255 G8 (2W1E2EA) Asteroid Silver",
+        "price": "27099",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/242100694.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "279791353",
+        "title": "Ноутбук ASUS ZenBook S UX393EA-HK022R (90NB0S71-M01230) Jade Black",
+        "price": "59999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/163133312.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "308941438",
+        "title": "Ноутбук Honor MagicBook X 14 (NBR-WAI9B) Space Grey",
+        "price": "19999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/196863102.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "333023815",
+        "title": "Ноутбук HP 250 G8 (3A5Y2EA) Dark Ash Silver",
+        "price": "18199",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/248743018.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "324505861",
+        "title": "Ноутбук HP 255 G8 (2W1E7EA) Asteroid Silver",
+        "price": "32599",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/233090553.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "344268862",
+        "title": "Ноутбук ASUS ROG Flow Z13 GZ301ZE-LD183W (90NR07X1-M00FB0) Black",
+        "price": "89999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/270772192.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "244068349",
+        "title": "Ноутбук Pixus Rise Grey",
+        "price": "9999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/30435904.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "317178151",
+        "title": "Ноутбук HP 245 G8 (3V5G0EA) Dark Ash Silver",
+        "price": "27999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/218421935.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "332232718",
+        "title": "Ноутбук ASUS ProArt Studiobook Pro 16 OLED W7600H3A-L2030X (90NB0TS1-M01980) Star Black",
+        "price": "119999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/247349614.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345749797",
+        "title": "Ноутбук Lenovo IdeaPad 5 14ALC05 (82LM00QDRA) Graphite Grey",
+        "price": "25999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/273540521.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "335877316",
+        "title": "Ноутбук ASUS Vivobook 13 Slate OLED T3300KA-LQ032W (90NB0VC2-M000A0) Indie Black / Intel Pentium Silver N6000 / RAM 8 ГБ / SSD 256 ГБ / Windows 11 Home",
+        "price": "33999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/254081536.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346331795",
+        "title": "Ноутбук Dream Machines G1650-17 (G1650-17UA78)",
+        "price": "56799",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/274826004.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "334897495",
+        "title": "Ноутбук Lenovo V14-ADA (82C6006ARA) Iron Grey",
+        "price": "12849",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/252214753.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "349386861",
+        "title": "Ноутбук Acer Nitro 5 AN515-45-R4DN (NH.QBSEU.009) Shale Black",
+        "price": "121999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/279645323.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "322401703",
+        "title": "Ноутбук HP 255 G8 (3A5Y5EA) Dark Ash Silver",
+        "price": "16899",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/229051225.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "277317548",
+        "title": "Ноутбук ASUS ZenBook S UX393EA-HK001T (90NB0S71-M00670) Jade Black",
+        "price": "63299",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/163289622.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "334871644",
+        "title": "Ноутбук Lenovo ThinkBook 14 G2 ITL (20VD0096RA) Mineral Grey",
+        "price": "25999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/252167139.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "321470446",
+        "title": "Ноутбук HP 470 G8 (439T7EA) Asteroid Silver",
+        "price": "29999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/226934581.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "349316922",
+        "title": "Ноутбук ASUS ASUSPRO BR1100FKA-BP1164X (90NX03A1-M00D50) Dark Grey",
+        "price": "15299",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/279471698.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345110272",
+        "title": "Ноутбук ASUS ROG Flow Z13 GZ301ZC-LD110W (90NR07Z1-M007N0) Black",
+        "price": "72499",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/272232726.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "306345378",
+        "title": "Ноутбук ASUS VivoBook 17 X712EA-BX105 (90NB0TW1-M01120) Transparent Silver / Intel Core i3-1115G4 / RAM 8 ГБ / SSD 256 ГБ",
+        "price": "23999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/189182754.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "322399963",
+        "title": "Ноутбук HP 250 G8 (3A5X9EA) Dark Ash Silver",
+        "price": "16199",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/229046878.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "347508444",
+        "title": "Ноутбук Lenovo IdeaPad 5 15ITL05 (82FG01K2RA) Graphite Grey",
+        "price": "30999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/276989853.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "336572278",
+        "title": "Ноутбук MSI Katana GF66 (11UD-1051XUA) Black",
+        "price": "48499",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/255463243.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "335091415",
+        "title": "Ноутбук MSI Delta 15 (A5EFK-062XUA) Carbon Gray",
+        "price": "82499",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/252675538.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "308931443",
+        "title": "Ноутбук Honor MagicBook X 15 (BBR-WAI9A) Space Grey",
+        "price": "24777",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/196872104.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "224305639",
+        "title": "Ноутбук Lenovo V15-IIL (82C500JNRA) Iron Grey",
+        "price": "27702",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/26045496.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "342666820",
+        "title": "Ноутбук Lenovo IdeaPad Flex 5 14ITL05 (82HS0174RA) Platinum Grey",
+        "price": "27999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/267901269.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "332347873",
+        "title": "Ноутбук ASUS ZenBook OLED 13 UX325EA-KG747W (90NB0SL1-M00DB0) Pine Grey",
+        "price": "59999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/247630169.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "339014710",
+        "title": "Ноутбук Acer Swift 5 SF514-55T-59AS (NX.A35EU.00R) Safari Gold",
+        "price": "43599",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/261445247.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346331783",
+        "title": "Ноутбук Dream Machines G1650-17 (G1650-17UA73)",
+        "price": "49999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/274826000.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "330178501",
+        "title": "Ноутбук Honor MagicBook X 15 (BBR-WAH9) Space Grey",
+        "price": "27499",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/243389787.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "335976910",
+        "title": "Ноутбук ASUS Vivobook Pro 15 OLED K3500PC-L1112W (90NB0UW2-M02610) Quiet Blue / Intel Core i5-11300H / nVidia GeForce RTX 3050 / Windows 11 Home",
+        "price": "44999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/254254406.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "334870285",
+        "title": "Ноутбук Lenovo ThinkBook 14 G2 ITL (20VD00CNRA) Mineral Grey",
+        "price": "37316",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/252165583.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345757117",
+        "title": "Ноутбук Lenovo IdeaPad Flex 5 14ALC05 (82HU011URA) Platinum Grey",
+        "price": "39999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/273553267.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "307196763",
+        "title": "Ноутбук HP 245 G8 (34N65ES) Dark Ash Silver",
+        "price": "35199",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/190486693.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "334811800",
+        "title": "Ноутбук НР ProBook 450 G8 (1A893AV_V25) Pike Silver",
+        "price": "52155",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/252090614.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "328982431",
+        "title": "Ноутбук Lenovo Yoga Slim 7 14ITL05 (82A300KMRA) Slate Grey",
+        "price": "30999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/241238886.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "332744863",
+        "title": "Ноутбук НР ProBook 455 G8 (1Y9H2AV_V2) Silver",
+        "price": "56655",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/248178681.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "343304644",
+        "title": "Ноутбук ASUS ZenBook Duo 14 UX482EG-HY422W (90NB0S51-M003N0) Celestial Blue",
+        "price": "78499",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/269069671.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "346331787",
+        "title": "Ноутбук Dream Machines G1650-17 (G1650-17UA76)",
+        "price": "51799",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/274825999.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "345379213",
+        "title": "Ноутбук Chuwi HeroBook Air (CW513/CW-102588) Black",
+        "price": "10999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/272784160.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "342574945",
+        "title": "Ноутбук ASUS Vivobook Go 12 E210KA-GJ076 (90NB0U71-M000R0) Peacock Blue / Intel Celeron N4500 / RAM 4 ГБ / SSD 256 ГБ",
+        "price": "13699",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/267769211.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "348713088",
+        "title": "Ноутбук Lenovo IdeaPad 3 15IGL05 (81WQ009ERA) Platinum Grey",
+        "price": "15499",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/278755891.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "335976844",
+        "title": "Ноутбук ASUS ZenBook 14 Flip OLED UP5401EA-KN113W (90NB0V41-M004Y0) Pine Grey / Intel Core i5-1135G7 / RAM 16 ГБ / SSD 512 ГБ / Windows 11 Home",
+        "price": "51999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/254254314.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "313142056",
+        "title": "Ноутбук Lenovo ThinkBook 14 G3 ACL (21A2002FRA) Mineral Grey",
+        "price": "28299",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/201368483.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "329473726",
+        "title": "Ноутбук ASUS ZenBook Flip 13 OLED UX363EA-HP668X (90NB0RZ1-M002M0) Pine Grey + фірмовий чохол і стилус",
+        "price": "59999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/242075009.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "332349244",
+        "title": "Ноутбук ASUS ZenBook 14 UX425EA-KI854 (90NB0SM1-M007P0) Pine Grey",
+        "price": "59999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/247631016.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "309984888",
+        "title": "Ноутбук HP ProBook 470 G8 (439Q4EA) Asteroid Silver",
+        "price": "35999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/194158899.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "313483393",
+        "title": "Ноутбук Lenovo ThinkBook 15 G2 ITL (20VE009BRA) Mineral Grey",
+        "price": "40774",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/202541877.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "311723798",
+        "title": "Ноутбук Dell Vostro 5510 (N5111VN5510UA01_2201_WP) Titan Grey",
+        "price": "43500",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/196226702.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "347506995",
+        "title": "Ноутбук Lenovo IdeaPad 5 15ITL05 (82FG0116RA) Graphite Grey",
+        "price": "29999",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/276987483.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "349044492",
+        "title": "Ноутбук ASUS Laptop E410KA-BV249 (90NB0UA1-M003A0) Peacock Blue",
+        "price": "13999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/279404986.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "221155273",
+        "title": "Ноутбук Lenovo V15-IIL (82C500JKRA) Iron Grey",
+        "price": "33364",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/25578917.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "324501307",
+        "title": "Ноутбук HP 250 G8 (2X7L1EA) Asteroid Silver",
+        "price": "41999",
+        "img_path": "https://content1.rozetka.com.ua/goods/images/big_tile/233078897.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "328886848",
+        "title": "Ноутбук Acer TravelMate P2 TMP214-41-G2-R52H (NX.VSAEU.001) Shale Black",
+        "price": "31099",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/241245853.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "318411964",
+        "title": "Ноутбук HP 240 G8 (27K37EA) Dark Ash Silver",
+        "price": "15199",
+        "img_path": "https://content.rozetka.com.ua/goods/images/big_tile/220837363.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "309573678",
+        "title": "Ноутбук HP 245 G8 (27J56EA) Dark Ash Silver",
+        "price": "26099",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/193762109.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "323887840",
+        "title": "Ноутбук Gigabyte G5 GD (G5_GD-51RU123SD) Black",
+        "price": "43999",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/231854279.jpg",
+        "currency": "UAH",
+        "active": true
+    },
+    {
+        "id": "331672180",
+        "title": "Ноутбук HP Pavilion x360 Convertible 14-dy0008ua (423J3EA) Warm Gold",
+        "price": "53755",
+        "img_path": "https://content2.rozetka.com.ua/goods/images/big_tile/246050522.jpg",
+        "currency": "UAH",
+        "active": true
+    }
+]
